@@ -52,3 +52,5 @@ sass:
   style: compressed
 
 plugins: ["jekyll-paginate"]
+
+timezone: Asia/Shanghai
