@@ -5,12 +5,7 @@ desc: Yet another simple theme for Jekyll.
 author:
   name: cofee的个人站
   avatar: //s4.ax1x.com/2022/01/06/TxrdGn.jpg
-  profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
-
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
+  profile: 
   socials:
     facebook:
     twitter: //#
