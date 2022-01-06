@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\css",
+    "\\js",
+    "\\_data",
+    "\\_includes",
+    "\\_includes\\variables",
+    "\\_sass",
+    "\\_sass\\bootstrap"
+  ],
+  "SelectedNode": "\\Gemfile",
+  "PreviewInSolutionExplorer": false
+}
