@@ -1,6 +1,6 @@
 ﻿# user variables, change this to make custom site.
 
-name: 宋可飞
+name: test
 desc: Yet another simple theme for Jekyll.
 author:
   name: cofee的个人站
@@ -13,13 +13,13 @@ author:
     And you may found me around BarCamp event ;D
   socials:
     facebook:
-    twitter: //twitter.com/neizod
+    twitter: //#
     google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
+    github: //github.com/blog666
+    stack-overflow: //#
     instagram:
     pinterest:
-    steam: //steamcommunity.com/id/neizod/
+    steam: //#
 license: MIT License
 
 
@@ -31,7 +31,7 @@ paginate: 2
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables"]
 
