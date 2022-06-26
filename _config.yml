@@ -27,8 +27,6 @@ paginate: 2
 paginate_path: page/:num
 highlighter: pygments
 markdown: kramdown
-kramdown:
-  math_engine: katex
 redcarpet:
   extensions: ["tables"]
 
